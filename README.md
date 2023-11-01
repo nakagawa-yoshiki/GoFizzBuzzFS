@@ -1,7 +1,7 @@
 # GoFizzBuzzFS
 
 ```sh
-$ go run main.go
+$ go run .
 ```
 
 ```sh
